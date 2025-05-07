@@ -37,8 +37,6 @@
 ## Features
 
 The Excalidraw editor (npm package) supports:
-
-- 💯&nbsp;Free & open-source.
 - 🎨&nbsp;Infinite, canvas-based whiteboard.
 - ✍️&nbsp;Hand-drawn like style.
 - 🌓&nbsp;Dark mode.
